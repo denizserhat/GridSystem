@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="af4b5c9e-642b-46a3-8f77-508e6e04db9a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GridSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GridSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/GridSystem/GridDataSo.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/GridSystem/GridDataSo.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GridSystem/GridManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GridSystem/GridManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SelectionSystem/SelectionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionSystem/SelectionManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +89,8 @@
       <updated>1672780326130</updated>
       <workItem from="1672780329665" duration="3204000" />
       <workItem from="1672830975343" duration="5440000" />
+      <workItem from="1672852425299" duration="209000" />
+      <workItem from="1673192144315" duration="4106000" />
     </task>
     <servers />
   </component>

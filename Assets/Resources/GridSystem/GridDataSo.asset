@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80bfd071e37946839c8e8d5a3c0b13dd, type: 3}
   m_Name: GridDataSo
   m_EditorClassIdentifier: 
-  coloumnCount: 5
-  rowCount: 5
+  coloumnCount: 4
+  rowCount: 4
   offset: 0.1
   prefab: {fileID: 3474493897076573856, guid: 485ab65f7ee5b5a45aabbf150aee7b9c, type: 3}

@@ -5,7 +5,7 @@ namespace GridSystem
 {
     public class GridManager : MonoBehaviour
     {
-        [SerializeField] private GridDataSo gridDataSo;
+        public GridDataSo gridDataSo;
 
         private Grid[,] _grids; 
         
@@ -16,7 +16,7 @@ namespace GridSystem
 
         }
 
-        private void Execute()
+        public void Execute()
         {
             _grids = new Grid[gridDataSo.coloumnCount, gridDataSo.rowCount];
             for (int i = 0; i < gridDataSo.coloumnCount; i++)
